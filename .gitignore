@@ -1,0 +1,9 @@
+# conf directory
+conf/
+# web directory
+web/
+# sql import
+scripts/post-exec/khimedia_ini*.sql
+# build scripts
+create_container.sh
+build_image.sh
